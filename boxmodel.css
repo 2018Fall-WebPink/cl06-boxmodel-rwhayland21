@@ -1,0 +1,37 @@
+/*
+*Riley Whayland 
+*Decemeer 10, 2018 
+*Box Model
+
+/* The universal selector */ 
+
+*{ 
+    margin: 0;
+    padding: 0;
+
+}
+
+/*The borders around the whole page*/ 
+
+body {
+    border: thick dotted blue;
+    padding: .5em;
+    margin: 1em;
+}
+
+main { border: thin solid green;
+    padding: .5em;
+    margin: 1em;
+}
+
+/*The borders around the page content*/
+
+h1 {border: thin dashed pink;
+    padding: .5em;
+    margin: 1em;
+}
+
+p {border: thin dashed orange;
+    padding: .5em;
+    Margin: 1em;
+}
